@@ -1,5 +1,5 @@
 # sqlalchemy-challenge
-SQL Challenge Module 10
+SQLAlchemy Challenge Module 10
 
 by Sungmin Yim
 
